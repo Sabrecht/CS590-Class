@@ -1,5 +1,3 @@
-
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Sabrecht/CS590-Class/tree/R-(SB)/R)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Sabrecht/CS590-Class/tree/R-(SB)/R-(SB))
 
 
